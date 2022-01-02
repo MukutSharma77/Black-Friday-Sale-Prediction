@@ -1,12 +1,12 @@
 # Black-Friday-Sale-Prediction
 
-#Library :
+## Library :
   * Matplotlib
   * Pandas
   * Numpy
   * Scikt-learn
   
-# Algorithms
+## Algorithms
   * Linear regression
   * SVR
   * Random forest
